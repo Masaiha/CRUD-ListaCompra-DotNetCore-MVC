@@ -1,0 +1,5 @@
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Data\bin\Debug\netcoreapp3.1\Masanori.com.Data.deps.json
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Data\bin\Debug\netcoreapp3.1\Masanori.com.Data.dll
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Data\obj\Debug\netcoreapp3.1\Masanori.com.Data.csprojAssemblyReference.cache
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Data\obj\Debug\netcoreapp3.1\Masanori.com.Data.AssemblyInfoInputs.cache
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Data\obj\Debug\netcoreapp3.1\Masanori.com.Data.AssemblyInfo.cs
