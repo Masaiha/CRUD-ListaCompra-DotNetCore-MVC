@@ -4,4 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Interfaces\" />
+    <Folder Include="Notificacoes\" />
+    <Folder Include="Validations\" />
+  </ItemGroup>
+
 </Project>

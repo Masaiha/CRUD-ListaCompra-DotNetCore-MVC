@@ -1,0 +1,28 @@
+﻿@model Masanori.com.App.ViewModels.EmpresaViewComponent
+@{
+    ViewData["Title"] = "Atualizar Endereço";
+    Layout = "_Layout";
+}
+
+<div class="row">
+    <div class="col-md-10">
+        <form asp-action="AtualizarEndereco">
+
+            <input type="hidden" asp-for="Endereco.EmpresaId " />
+            <input type="hidden" asp-for="Endereco.Id" />
+
+            <partial name="_Endereco" />
+
+            @*<div class="form-group">*@
+            <br />
+            <input type="submit" value="Salvar" class="btn btn-primary" />
+            <a class="btn btn-warning" asp-action="Index">Voltar</a>
+            @*</div>*@
+
+        </form>
+    </div>
+</div>
+
+<script>
+    BuscaCep();
+</script>

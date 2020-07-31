@@ -1,0 +1,9 @@
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\bin\Debug\netcoreapp3.1\Masanori.com.Business.deps.json
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\bin\Debug\netcoreapp3.1\Masanori.com.Business.dll
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\bin\Debug\netcoreapp3.1\Masanori.com.Business.pdb
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.AssemblyInfoInputs.cache
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.AssemblyInfo.cs
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.csproj.CoreCompileInputs.cache
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.dll
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.pdb
+C:\Users\Masanori\Documents\GitHub\CRUD-ListaCompra-DotNetCore-MVC\listaDeCompras\src\Masanori.com.Business\obj\Debug\netcoreapp3.1\Masanori.com.Business.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Masanori.com.Business/1.0.0": {
+        "runtime": {
+          "Masanori.com.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Masanori.com.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -10,18 +10,11 @@ namespace Masanori.com.Business.Models
             DataCompra = DateTime.Now;
         }
 
-        protected static DateTime DataCompra;
-        protected static List<Produto> ListaProdutos;
+        public Guid EmpresaId { get; set; }
+        public string Nome { get; set; }
+        public DateTime DataCompra { get; }
 
-        public static List<Produto> GetProdutos()
-        {
-            return ListaProdutos;
-        }
-
-        public static void AdicinaProduto(Produto produto)
-        {
-            ListaProdutos.Add(produto);
-        }
-
+        public IEnumerable<Produto> Produtos;
+        public Empresa Empresa { get; set; }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Masanori.com.App.ViewModels;
 
 namespace Masanori.com.App.Data
 {
@@ -12,5 +13,8 @@ namespace Masanori.com.App.Data
             : base(options)
         {
         }
+        //public DbSet<Masanori.com.App.ViewModels.EmpresaViewComponent> EmpresaViewComponent { get; set; }
+        //public DbSet<Masanori.com.App.ViewModels.CompraViewComponent> CompraViewComponent { get; set; }
+        //public DbSet<Masanori.com.App.ViewModels.ProdutoViewComponent> ProdutoViewComponent { get; set; }
     }
 }
